@@ -2,18 +2,11 @@
 <h3 align="center">🌐 Full Stack Developer | .NET Enthusiast | Passionate about Clean Code</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nada-youssef258/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #0A66C2; color: white; border: none; padding: 10px 20px; border-radius: 8px; font-size: 16px; display: inline-flex; align-items: center; gap: 8px; cursor: pointer;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
-      Connect on LinkedIn
-    </button>
+  <a href="https://www.linkedin.com/in/nada-youssef258/" target="_blank" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="mailto:nadayoussef0258@gmail.com" style="text-decoration: none;">
-    <button style="background-color: #D44638; color: white; border: none; padding: 10px 20px; border-radius: 8px; font-size: 16px; display: inline-flex; align-items: center; gap: 8px; cursor: pointer;">
-      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20" />
-      Send Email
-    </button>
+  <a href="mailto:nadayoussef0258@gmail.com" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
