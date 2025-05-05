@@ -2,11 +2,11 @@
 <h3 align="center">🌐 Full Stack Developer | .NET Enthusiast | Passionate about Clean Code</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nada-youssef258/" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/nada-youssef258/" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn" title="LinkedIn" />
   </a>
-  <a href="mailto:nadayoussef0258@gmail.com" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:nadayoussef0258@gmail.com" style="margin: 0 10px;">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35" alt="Email" title="Gmail" />
   </a>
 </p>
 
