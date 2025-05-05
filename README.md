@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nada Youssef Elnoby</h1> 
-<h3 align="center">🌐 Full Stack Developer | .NET Enthusiast | Passionate about Clean Code</h3>
+<h3 align="center">🌐 Full Stack Developer | .NET & MEAN Stack | Passionate about Clean Code</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nada-youssef258/" target="_blank" style="margin: 0 10px;">
